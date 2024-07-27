@@ -1,6 +1,6 @@
 # today-i-learned
 
-| moved at 2024-07-20, to https://github.com/kkkkkksssssaaaa/documents
+| moved at 2024-07-20, to https://github.com/kkkkkksssssaaaa/note
 
 오늘 하루를 정리하는 프로젝트입니당
 
